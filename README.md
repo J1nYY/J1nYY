@@ -1,7 +1,7 @@
 # 안녕하세요, S/W 개발자 유진영입니다.
 S/W Developer
 
-"책임감을 가지고 사용자의 요구사항을 지속적으로 만족시키는 개발자"
+"사용자에게 유의미한 도구를 개발하고 싶은 개발"
 
 소프트웨어학과를 전공하며 Ai와 S/W 기술에 대한 역량을 키워왔습니다.
 Ai 로봇 개발자 과정을 통해 하드웨어가 접목된 S/W개발 능력을 기르고 있으며
@@ -11,32 +11,35 @@ Ai 로봇 개발자 과정을 통해 하드웨어가 접목된 S/W개발 능력�
 
 ## 🧰 Tech Stack
 
-### Languages 
-![C](https://img.shields.io/badge/C-000?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white)
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### OS
-![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000?logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### Embedded Boards & MCU
-![Arduino](https://img.shields.io/badge/Arduino-000?logo=arduino&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-000?logo=raspberrypi&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-000?logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### Tools & Communication
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![BLE](https://img.shields.io/badge/BLE-000?logo=bluetooth&logoColor=white)
-![UART](https://img.shields.io/badge/UART-000?logo=arduino&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-000?logo=raspberrypi&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-000?logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![UART](https://img.shields.io/badge/UART-4B5563?style=for-the-badge&logo=arduino&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-6B7280?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-6B7280?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 ### Robotics & Vision
-![ROS](https://img.shields.io/badge/ROS-000?logo=ros&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-000?logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?logo=opencv&logoColor=white)
-![MoveIt](https://img.shields.io/badge/MoveIt-000?logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-111827?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MoveIt](https://img.shields.io/badge/MoveIt-10B981?style=for-the-badge&logo=ros&logoColor=white)
 ---
 
 ### 📜 Certificates
@@ -63,8 +66,3 @@ Ai 로봇 개발자 과정을 통해 하드웨어가 접목된 S/W개발 능력�
 - (숭실대학교/소프트웨어학과) (2018.02.~2025.06.)
 - (Ai 로봇 개발자) (2025.09~2026.04)
 
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact)
